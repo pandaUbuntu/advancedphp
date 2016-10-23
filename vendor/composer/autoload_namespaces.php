@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'Yandex\\Tests' => array($vendorDir . '/nixsolutions/yandex-php-library/tests'),
     'Yandex' => array($vendorDir . '/nixsolutions/yandex-php-library/src'),
+    'Pimple' => array($vendorDir . '/pimple/pimple/src'),
 );
