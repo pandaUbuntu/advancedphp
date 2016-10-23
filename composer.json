@@ -1,0 +1,15 @@
+{
+    "name": "project",
+    "type": "project",
+    "description": "my first project",
+    "require": {
+        "php": ">=5.5.9",
+        "nixsolutions/yandex-php-library": "dev-master",
+	"nesbot/carbon": "~1.21"
+    },
+    "config": {
+        "platform": {
+            "php": "5.5.9"
+        }
+    }
+}
